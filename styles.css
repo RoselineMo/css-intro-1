@@ -1,0 +1,60 @@
+.likes {
+    border: 1px solid;
+    border-radius: 10px;
+    background-color: green;
+}
+
+#likes {
+    border: 1px solid;
+    border-radius: 10px;
+    background-color: #E4DCF5;
+    font-family: fantasy;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+.dislikes {
+    border: 1px solid;
+    border-radius: 10px;
+    background-color: green;
+}
+
+#dislikes {
+    border: 1px solid;
+    border-radius: 10px;
+    background-color: #474b48;
+    font-family: fantasy;
+    padding: 20px;
+    margin-bottom:6px;
+}
+
+.ordered-list {
+    color: #ffff;
+    font-family: serif;
+    background-color: green;
+}
+
+#ordered-list {
+    color: #ffff;
+    font-family: system-ui;
+    background-color: #474b48;
+    line-height: 25px;
+    padding: 30px;
+    border: 2px dashed;
+}
+
+.unordered-list {
+    color: #000000;
+    font-family: serif;
+    background-color: green;
+}
+
+#unordered-list {
+    color: #000000;
+    font-family: system-ui;
+    line-height: 30px;
+    background-color: #ffff;
+    padding: 30px 35px;
+    border: 2px dashed;
+    list-style: "❌  ";
+}
